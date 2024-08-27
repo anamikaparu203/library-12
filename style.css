@@ -1,0 +1,13 @@
+img.slide{
+    height: 900px;
+}
+.homepage-background {
+    background-image: url('/images/imagebg.jpg'); /* Add your image here */
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
